@@ -51,34 +51,29 @@ a:visited{
     align-items: center;
     margin: auto;
 }
-h6{
-    position: relative;
-    bottom: 88px;
-    right: 135px;
-    transform: translate(0%,30%);
-}
 .h6edited{
     right: 114px;
     bottom:111px;
+    text-align: left;
+    margin: 0;
 }
 .align{
     bottom: 50px;
 }
-.shift1{
+/*.shift1{
     position: relative;
-    top: 15px;
-}
+    top: 15px;*/
 .shift2{
     position:relative;
     bottom:50px
 }
 .shift3{
     position:relative;
-    bottom:369px;
-    right: 92px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: grey;
     font-size: 9px;
+    text-align: left;
+    bottom: 20px;
 }
 .shift4{
     text-align: left;
@@ -113,4 +108,13 @@ ol{
     position: relative;
     bottom: 45px;
     left: 25px;
+}
+.shift11{
+    position: relative;
+    left: 502px;
+    bottom: 38px;
+}
+.shift12{
+    position: relative;
+    bottom: 35px;
 }
