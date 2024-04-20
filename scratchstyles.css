@@ -29,11 +29,13 @@ h1{
     padding: 5px;
 }
 .img3{
-    float: right;
+    float:right;
+    display: flex;
     position: relative;
-    right: 800px;
     top: 20px;
+    right: 57%;
     border: 2px solid black;
+
 }
 a{
     color: aliceblue;
@@ -52,9 +54,9 @@ a:visited{
     margin: auto;
 }
 .h6edited{
-    right: 114px;
-    bottom:111px;
-    text-align: left;
+    position: relative;
+    text-align: center;
+    bottom:15px;
     margin: 0;
 }
 .align{
@@ -78,7 +80,8 @@ a:visited{
 .shift4{
     text-align: left;
     position: relative;
-    left: 650px;
+    margin-left: auto;
+    left: 46%
 }
 ol{
     list-style-position: inside;
@@ -108,11 +111,6 @@ ol{
     position: relative;
     bottom: 45px;
     left: 25px;
-}
-.shift11{
-    position: relative;
-    left: 502px;
-    bottom: 38px;
 }
 .shift12{
     position: relative;
