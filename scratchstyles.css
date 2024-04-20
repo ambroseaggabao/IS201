@@ -41,7 +41,7 @@ a{
     color: aliceblue;
 }
 a:visited{
-    color: rgb(251, 164, 164);
+    color: aliceblue;
 }
 .shift{
     position: relative;
@@ -75,7 +75,7 @@ a:visited{
     color: rgba(255, 118, 118, 0.723);
     font-size: 9px;
     text-align: left;
-    bottom: 20px;
+    bottom: 17px;
 }
 .shift4{
     text-align: left;
